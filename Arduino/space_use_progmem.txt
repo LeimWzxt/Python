@@ -1,0 +1,1 @@
+This program helps to more efficiently use the program memory (PROGMEM) on the Arduino board to store characters. This code has been tested for a 128x64 bit OLED screen.
